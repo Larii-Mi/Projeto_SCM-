@@ -2,17 +2,11 @@
 
 
 
-**Projeto de Gestão de Configuração de Software.**
+**Projeto de Gestão de Configuração**
 
 
 
-**Atualização realizada durante a aula prática.**
-
-
-
-**Utilização do Git e GitHub para controle de versões e gerenciamento de artefatos.**
-
-
+**Primeira versão do projeto.**
 
 
 
